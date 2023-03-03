@@ -1,0 +1,22 @@
+feeds_url:
+  - name: luci-app-alist
+    url: https://github.com/sbwml/luci-app-alist
+    branch: master
+  - name: ariang-nginx
+    url: https://github.com/sbwml/ariang-nginx.git
+    branch: master
+  - name: aria2
+    url: https://github.com/sbwml/feeds_packages_net_aria2.git
+    branch: 21.02
+  - name: luci-theme-argon
+    url: https://github.com/sbwml/luci-theme-argon
+    branch: master
+  - name: luci-app-adguardhome
+    url: https://github.com/rufengsuixing/luci-app-adguardhome
+    branch: master
+  - name: netspeedtest
+    url: https://github.com/sirpdboy/netspeedtest.git
+    branch: master
+  - name: openclash
+    url: https://github.com/vernesong/OpenClash
+    branch: master
