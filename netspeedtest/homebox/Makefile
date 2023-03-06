@@ -46,7 +46,7 @@ define Build/Configure
 	( \
 		cd $(PKG_BUILD_DIR)/server; \
 		GOPATH=$(PKG_BUILD_DIR)/.go_work/build \
-		go install -modcacherw github.com/go-bindata/go-bindata/...@3.1.2; \
+		go install -modcacherw github.com/go-bindata/go-bindata/...@v3.1.2; \
 	)
 endef
 
